@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+    text-align: center;
+}
+nav {
+    margin : auto;
+    padding: 1rem;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    padding: 0.5rem;
+}
+
+input {
+    margin-top: 1rem;
+}
+
+
+button {
+    margin : 0.5rem;
+    border-radius: 4px;
+    padding : 0.5rem
+}
